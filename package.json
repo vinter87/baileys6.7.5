@@ -12,10 +12,6 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys",
-  "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
-  },
   "license": "MIT",
   "author": "Adhiraj Singh",
   "main": "lib/index.js",
